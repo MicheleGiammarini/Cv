@@ -14,7 +14,7 @@
      
 
 <br>
-<table cellspacing=20" <tr>
+<table  <tr>
   <td>
 <img src="London.jpg" alt="Michele Giammarini" </td><td> <h1>Michele Giammarini<h1> <p><em>Fermo <strong> <td></tr>
 
