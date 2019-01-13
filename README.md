@@ -6,15 +6,13 @@
 
     <title>Michele Giammarini</title>
   </head>
-  <body style="background-color:#eaeaea; ">
+  <body/>
   
 
 <p><h1>Michele Giammarini </h1></p>
 
-      <p> <h2>Enter in Family </h2><p>
+     
 
-    <hr>
-    <hr>
 <br>
 <table cellspacing=20" <tr>
   <td>
@@ -52,28 +50,18 @@
         </thead>
       </table>
 
-
-    </td>
-    <td><table>
-      <thead>
-        <tr>
-    <td>Cookry Skill
-    </td>
-    <td>Basic⭐⭐</td>
-    </tr>
-    <tr>
-    <td>Italian Linguage Level</td>
-    <td>Mother Tongue⭐⭐⭐⭐</td>
-    </tr>
-    <tr>
-      <td>Html</td>
-     <td>Intermediate⭐⭐⭐</td>
-    </tr>
-      </thead>
-    </table></td>
-  </tr>
-</table>
+   English Linguage Level</td>
+      <td> <a href="https://certs.duolingo.com/hxxf5ek9">Intermediate</a>⭐⭐⭐ </td>
+      </tr>
+      <tr>
+      <td>Swimming Skill</td>
+      <td>Intermediate⭐⭐⭐</td>
+      </tr>
+      <tr>
+        <td>Blsd</td>
+       <td>Basic⭐⭐</td>
+      </tr>
+        </thead>
+      </table>
 
     
-
-    </body>
