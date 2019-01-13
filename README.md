@@ -74,9 +74,6 @@
   </tr>
 </table>
 
-      </tr>
-        </thead>
-      </table>
-
+    
 
     </body>
