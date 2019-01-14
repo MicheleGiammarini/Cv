@@ -42,7 +42,7 @@
             <td>Mother tongue⭐⭐⭐⭐</td>
              </tr><tr>
               <td>Hhml programming</td>
-       <td></td>Intermediate⭐⭐⭐</tr>
+       <td>Intermediate⭐⭐⭐</td></tr>
    </thead>
 </table>
     
