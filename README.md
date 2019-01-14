@@ -34,7 +34,7 @@
 
    <table>
   <thead>
-  <tr><td>Cooking Skill</td>
+  <tr><td>Cooking prowess</td>
            
  <td>Basic ⭐</td>
          </tr><tr>
