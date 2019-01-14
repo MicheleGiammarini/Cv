@@ -21,7 +21,7 @@
    <table>
   <thead>
   <tr><td>
-      English Linguage Level</td>
+      English Language Level</td>
       <td> <a href="https://certs.duolingo.com/hxxf5ek9">Intermediate</a>⭐⭐⭐ </td>
          </tr><tr>
            <td>Swimming Skill</td>
@@ -34,15 +34,15 @@
 
    <table>
   <thead>
-  <tr><td>
-      English Linguage Level</td>
-      <td> <a href="https://certs.duolingo.com/hxxf5ek9">Intermediate</a>⭐⭐⭐ </td>
+  <tr><td>Cook Skill</td>
+           
+ <td>Basic⭐</td>
          </tr><tr>
-           <td>Swimming Skill</td>
-            <td>Intermediate⭐⭐⭐</td>
+           <td>Italian Language Level</td>
+            <td>Mother tongue⭐⭐⭐⭐</td>
              </tr><tr>
-              <td>Blsd</td>
-       <td>Basic⭐⭐</td></tr>
+              <td>Hhml programming</td>
+       <td></td>Intermediate⭐⭐⭐</tr>
    </thead>
 </table>
     
