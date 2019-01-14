@@ -21,10 +21,25 @@
   <hr>
   <hr>
   <h1>My Skills</h1></a>
-
-<table>
-  <tr>
-    <td>
+  
+    <table>
+        <thead>
+          <tr>
+      <td>
+      English Linguage Level</td>
+      <td> <a href="https://certs.duolingo.com/hxxf5ek9">Intermediate</a>⭐⭐⭐ </td>
+      </tr>
+      <tr>
+      <td>Swimming Skill</td>
+      <td>Intermediate⭐⭐⭐</td>
+      </tr>
+      <tr>
+        <td>Blsd</td>
+       <td>Basic⭐⭐</td>
+      </tr>
+        </thead>
+      </table>
+      
       <table>
         <thead>
           <tr>
