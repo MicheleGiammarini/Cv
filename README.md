@@ -6,21 +6,15 @@
 
      
 
-<br>
-<table  <tr>
-  <td>
-<img src="London.jpg" alt="Michele Giammarini" </td><td> <h1>Michele Giammarini<h1> <p><em>Fermo <strong> </td></tr>
-
-</table>
-
-  <hr>
+<img src="London.jpg" alt="Michele Giammarini">
 
 
 <br>
   <br>
   <hr>
   <hr>
-  <h1>My Skills</h1></a>
+  <h1>My Skills</h1>
+
   
     <table>
         <thead>
