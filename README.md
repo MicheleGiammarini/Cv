@@ -25,24 +25,24 @@
       <td> <a href="https://certs.duolingo.com/hxxf5ek9">Intermediate</a>⭐⭐⭐ </td>
          </tr><tr>
            <td>Swimming Skill</td>
-            <td>Intermediate⭐⭐⭐</td>
+            <td>Intermediate ⭐⭐⭐</td>
              </tr><tr>
               <td>Blsd</td>
-       <td>Basic⭐⭐</td></tr>
+       <td>Basic ⭐⭐</td></tr>
    </thead>
 </table>
 
    <table>
   <thead>
-  <tr><td>Cook Skill</td>
+  <tr><td>Cooking Skill</td>
            
- <td>Basic⭐</td>
+ <td>Basic ⭐</td>
          </tr><tr>
            <td>Italian Language Level</td>
-            <td>Mother tongue⭐⭐⭐⭐</td>
+            <td>Mother tongue ⭐⭐⭐⭐</td>
              </tr><tr>
               <td>Html programming</td>
-       <td>Intermediate⭐⭐⭐</td></tr>
+       <td>Intermediate ⭐⭐⭐</td></tr>
    </thead>
 </table>
     
