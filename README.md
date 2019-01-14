@@ -41,7 +41,7 @@
            <td>Italian Language Level</td>
             <td>Mother tongue⭐⭐⭐⭐</td>
              </tr><tr>
-              <td>Hhml programming</td>
+              <td>Html programming</td>
        <td>Intermediate⭐⭐⭐</td></tr>
    </thead>
 </table>
